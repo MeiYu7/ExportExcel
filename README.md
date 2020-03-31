@@ -38,3 +38,5 @@ public class ExcelUtil {
 - title标题
 - head 保存excel对象的实体类
 - list 需要写入excel的数据列表
+
+#### 这是我第一次开源尝试，如果帮助到你可以帮忙点个小星星嘛~~
